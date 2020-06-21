@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "r4mYoRA1TjKPZtWLnKamgjatoHBrFmuiRc"
+      }
+    }
+  ],
+  "payId": "pay$xcoinblog.github.io"
+}
